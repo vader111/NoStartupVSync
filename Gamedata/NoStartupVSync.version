@@ -1,6 +1,6 @@
 {
      "NAME": "No Startup VSync",
-     "URL": "https://raw.githubusercontent.com/vader111/NoStartupVSync/master/GameData/NoStartupVSync/NoStartupVSync.version",
+     "URL": "https://raw.githubusercontent.com/vader111/NoStartupVSync/main/Gamedata/NoStartupVSync.version",
      "DOWNLOAD": "https://github.com/vader111/NoStartupVSync/releases",
      "GITHUB":{
          "USERNAME": "vader111"
