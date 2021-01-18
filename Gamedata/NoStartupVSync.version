@@ -1,0 +1,26 @@
+{
+     "NAME": "No Startup VSync",
+     "URL": "https://raw.githubusercontent.com/vader111/NoStartupVSync/master/GameData/NoStartupVSync/NoStartupVSync.version",
+     "DOWNLOAD": "https://github.com/vader111/NoStartupVSync/releases",
+     "GITHUB":{
+         "USERNAME": "vader111"
+         "REPOSITORY": "https://github.com/vader111/NoStartupVSync"
+     },
+     "VERSION":{
+         "MAJOR":1,
+         "MINOR":0,
+         "PATCH":0
+     },
+     "KSP_VERSION_MIN":
+     {
+        "MAJOR":1,
+        "MINOR":8,
+        "PATCH":0
+     },
+     "KSP_VERSION_MAX":
+     {
+        "MAJOR":1,
+        "MINOR":10,
+        "PATCH":99
+     }
+}
