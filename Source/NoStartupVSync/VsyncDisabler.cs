@@ -1,14 +1,16 @@
 ﻿using System;
 using UnityEngine;
 
-namespace VsyncIsBad
+[assembly: KSPAssembly("NoStartupVSync", 1, 0)]
+
+namespace NoStartupVSync
 {
 	[KSPAddon(KSPAddon.Startup.Instantly, false)]
-	public class BadVsync : MonoBehaviour
+	public class FasterLoading : MonoBehaviour
 	{
 		public void Start()
 		{
-			QualitySettings.vSyncCount = 0; //BAD Coding Monkey = VSYNC forced on during loading which makes things load slowly.
+			QualitySettings.vSyncCount = 0; //BAD Coding = VSYNC forced on during loading which makes things load slower.
 		}
 	}
 }

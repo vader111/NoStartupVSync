@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Vsync Disabler")]
+[assembly: AssemblyTitle("Startup Vsync Disabler")]
 [assembly: AssemblyDescription("Disables Vsync at Startup to make KSP Load faster")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Vader111")]
-[assembly: AssemblyProduct("Vsync Disabler")]
-[assembly: AssemblyCopyright("Copyright © 2021")]
+[assembly: AssemblyProduct("Startup Vsync Disabler")]
+[assembly: AssemblyCopyright("")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
